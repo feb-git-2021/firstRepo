@@ -1,5 +1,5 @@
 In this demo we are understanding about recurssive merge
 when changes are done to the master branch while working with
 multiple branches while merging it will not be aboutFAST-FORWARD merge
-adding a new line in this file from
-master branch.......
+we are going to create a conflict
+by changing data in this file
